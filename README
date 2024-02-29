@@ -1,7 +1,7 @@
 # Competency Assessment
 
 ## Introduction
-The purpose of this assessment is to evaluate your ability to produce easily readable and efficient code that is easily extendable. Your ability to incorporate design principles into your code is key.
+The purpose of this assessment is to evaluate your ability to produce readable and efficient code that is easily extendable. Your ability to incorporate design principles into your code is key.
 
 ### Task
 This repository contains the code for a python script that processes a fictitious order. You are expected to read the code and gain an understanding of what the application does.
